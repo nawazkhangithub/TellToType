@@ -13,3 +13,7 @@ pip install speechreccognition  ,
 pip install pyglet  ,   
 pip install tkinter  ,  
 pip install gtts  ,  
+
+
+
+(give appropriate paths for image, for chrome etc)
