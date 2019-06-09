@@ -16,4 +16,4 @@ pip install gtts  ,
 
 
 
-(give appropriate paths for image, for chrome etc)
+(give appropriate paths for image, chrome etc)
